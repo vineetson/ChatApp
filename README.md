@@ -15,12 +15,12 @@ React JS is the programming language of choice, and Chat Engine is a set of APIs
 It's a good example of learning to react and creating something production-ready!
 
 ## Let's dive into the features of the chat application:
-# Login screen with username and password
-# Chat rooms
-# List of people available in the chat room
-# Online/offline status
-# Sound notification for new messages
-# Real-time messaging
+### Login screen with username and password
+### Chat rooms
+### List of people available in the chat room
+### Online/offline status
+### Sound notification for new messages
+### Real-time messaging
 
 ## Conclusion: 
 1. Creating a React application and installing dependencies.
